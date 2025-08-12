@@ -1,0 +1,1611 @@
+Course: CSC101S3: Foundations of Computer Science
+Course Title: Foundations of Computer Science
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 45
+  - Practical: —
+  - Independent Learning: 105
+Objectives: Provide logical and mathematical foundations of computer science, and illustrate the use of formal languages in computer science
+Intended Learning Outcomes:
+  - Describe the fundamentals of mathematical and logical aspects
+  - Outline the concepts of programming
+  - Illustrate the use of formal languages in computer science
+  - Explain basic computer network organisation
+Contents:
+  - Fundamental organisation of computer hardware and software: Motherboard, I/O Peripherals, Expansion slots and cards, application software, arithmetic-logic unit, registers, central processing unit, memory, storage devices
+  - Theoretical foundations of sets: Basic notation, representations and examples, membership and subsets, operations on sets, cartesian products, power sets, cardinality, infinite sets
+  - Introduction to relations and functions: Domain and range of a relation, one-to-one, one-to-many, many-to-one, inverse, reflexive, symmetric, transitive relations, into, onto, one-one, Bijective functions
+  - Concepts of flowcharts and algorithms
+  - Introduction to propositional and predicate logic: Propositions, quantifiers, predicates, arguments
+  - Boolean algebra and logic gates: Combinatorial circuits, Boolean functions, Karnaugh map
+  - Number systems and their representations: Representation of integers and floating-point numbers in signed-magnitude and two’s-complements
+  - Trees, Graphs and their applications: Graphs, representation of graphs, paths and circuits, planar graph, Binary trees, decision trees, tree traversal, spanning trees
+  - Automata, grammars and languages: Finite state machines, languages and grammars, language recognition, Turing machines
+  - Introduction to computer networks: Network topologies, transmission media and network devices, ISO OSI stack, IP addressing
+Teaching/Learning Methods:
+  - Use of chalkboard
+  - Vocabulary drills
+  - Flowcharts
+  - Recitation oral questions
+  - Timelines
+  - Photographs
+  - Tutorial discussions
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - B. A. Forouzan, Foundations of Computer Science, 3rd Ed., 2014.
+  - P. Norton, Introduction to Computers, 7th Ed., Tata McGraw Hill Education, 2011.
+  - R. L. Graham, Donald E. Knuth, and Oren Patashnik. Concrete Mathematics: Foundation for Computer Science, 2nd Ed., Addison-Wesley Professional, 1994
+
+--------------------------------------------------------------------------------
+
+Course: CSC102S3: Computer Programming I
+Course Title: Computer Programming I
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: —
+  - Practical: 135
+  - Independent Learning: 165
+Objectives: Provide fundamentals of programming concepts in Java and introduce the concepts of object-oriented programming
+Intended Learning Outcomes:
+  - Demonstrate fundamental programming concepts
+  - Identify classes, objects, members of a class and relationships among them needed for a specific problem
+  - Solve variety of computational problems
+  - Create programs using fundamental concepts of object-oriented programming
+Contents:
+  - Interaction with a computer: Graphical user interface, command line interface, files and folders, using text editors / IDEs, programming principles
+  - Program development in Java: Programming principles, Edit-Compile-Run cycle, basic components of a Java program, syntax and semantics, data types, variables and constants, expressions, built-in classes
+  - Introduction to Object-Oriented Programming: Classes and objects, fields and methods, arguments and parameters, constructors, class and instance data values
+  - Control Flow: Sequence, selection, repetition, explicit control-flow statements
+  - Arrays and Collections: 1D & 2D Arrays, arrays of objects, for-each loop, passing arrays to methods, searching and sorting in arrays
+  - Concepts of recursion and backtracking: Recursion concepts, examples using recursion, recursion vs. iteration, recursive backtracking
+  - Implementing standard algorithms: String matching, counting coins, Knapsack problem, Huffman coding, activity-selection, scheduling problem
+  - Inheritance and Polymorphism: Principles of Inheritance, member accessibility, inheritance over accessibility, principles of polymorphism and polymorphic constructors/methods
+Teaching/Learning Methods:
+  - Laboratory experiments
+  - Supervised study
+  - Practical records
+  - Tutorial discussions
+Assessment Strategy:
+  - In-course Assessments
+  - Assessment on practical records ———————– 10%
+  - End-of-First Semester Practical Assessment ———– 30%
+  - End-of-Second Semester Practical examination ———- 60%
+References:
+  - C. T. Wu, An Introduction to Object-Oriented Programming with Java, 5th Ed., McGraw-Hill Education, 2009.
+  - P. Deitel and H. Deitel, Java How to Program, 9th Ed., Pearson Education, Inc., 2012.
+  - H. Schildt, Java: The Complete Reference, 9th Ed., McGraw-Hill Osborne Media, 2014.
+
+--------------------------------------------------------------------------------
+Course: CSC103S3: Introduction to Computer Systems
+Course Title: Introduction to Computer Systems
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: 30
+  - Independent Learning: 90
+Objectives: Provide the students a conceptual level understanding of the structure and operation of computers and the Internet. In addition, this course also provides a basic understanding on threats to computer systems and computer networks
+Intended Learning Outcomes:
+  - State the conceptual and physical structure of a computer
+  - Describe the operation of a computer system and the components
+  - Demonstrate the structure and operations of the Internet
+  - Troubleshoot a computer for hardware and software related issues
+Contents:
+  - Conceptual design and operation of modern computers: Data and Information, Conceptual design of modern computers (John von Neumann) and stored program concept, CPU and memory organisation, execution of programmes, Booting process, digital storage devices
+  - Basics of the Internet: Structure of the Internet, Operation of Internet – TCP/IP, IP Addressing, Domain naming system, Role of servers and clients, Management and control of the Internet – ISP, Internet Consortium
+  - Internet services and applications: WWW, e-mail, e-learning, Social Networking, Blogs, Cloud computing
+  - Threats to computer systems and information: Computer malware, ways to protect computer systems from malware, securing information – encryption technique, digital signature, biometric devices, email filtering, firewall, and precautions on Web; prevention of electronic theft
+  - Computer related ethical issues: copyright, software licenses, information privacy, intellectual property, content filtering, Spam, and laws enacted with regards to SPAM, protecting web and electronic communication from antisocial and anti-cultural elements
+  - Maintaining Computer hardware and software: Servicing a computer, installing operating systems and configuring a computer, installing software and drivers, troubleshooting computers, setting up a computer network
+Teaching/Learning Methods:
+  - Lectures
+  - Workshop sessions
+  - Visit to Network Operating centre
+  - Tutorial discussions
+Assessment Strategy:
+  - In-course Assessments (Theory) —————————————15%
+  - In-course Assessments (Practical) ————————————-15%
+  - End-of-course Examination ———————————————70%
+References:
+  - P. Norton, Introduction to Computers, 7th Ed., Tata McGraw Hill Education Private Limited, 2011.
+  - R. White and T.E. Downs, “How Computers Work”, 3rd Ed., 2008.
+
+--------------------------------------------------------------------------------
+
+Course: CSC104S2 : Mathematics for Computing I
+Course Title: Mathematics for Computing I
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Provide fundamental mathematical concepts and techniques in finding the solution methods for real world problems and then to apply those techniques for the proposed solutions by a computer
+Intended Learning Outcomes:
+  - Apply proof techniques in the construction of a sound argument
+  - Perform the operations associated with sets
+  - Analyse connections between various types of relations
+  - Classify various types of functions
+  - Illustrate the use of Boolean algebra in logic circuit designs
+Contents:
+  - Proof Techniques: Notions of implication, equivalence, converse, inverse, contrapositive, negation, and contradiction. Direct proofs, Disproving by counterexample, Proof by contradiction
+  - Set theory: Venn diagrams, set operations, Cartesian product, Power sets, Cardinality of finite sets
+  - Relations and functions: Reflexivity, symmetry, transitivity of relations, Equivalence relations, partial orders; Surjections, injections, bijections; Inverses, Composition of functions
+  - Boolean algebra: Introduction, Duality, Representation theorem, Sum-of-products from Boolean algebra
+Teaching/Learning Methods:
+  - Lectures
+  - Class discussions
+  - Textbook assignments
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - S. Lipschutz, “Set theory and related topics”, McGraw-Hill, 1998.
+  - R. R. Stoll, “Set theory and logic”, 1979.
+
+--------------------------------------------------------------------------------
+
+Course: CSC105S3: Statistics for Computing I
+Course Title: Statistics for Computing I
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 45
+  - Practical: —
+  - Independent Learning: 105
+Objectives: Provide a solid theoretical foundation of Statistics with a combination of experience in solving real world problems with a computer
+Intended Learning Outcomes:
+  - Describe the concepts of probability
+  - Apply Bayes’ Theorem
+  - Utilise the probability distributions for real world problems
+  - Describe the concept of Random variable
+Contents:
+  - Introduction to probability: Permutations, combinations, Venn diagram, events, sample space, mutually exclusive events, axioms of probability, laws of probability, conditional probability, independence
+  - Bayes’ Theorem and Applications: Partition, total probability theorem, Bayes’ theorem, tree diagram
+  - Random variable: Discrete and continuous random variables, probability mass function, probability density function, expectation, moments, mean and variance, moment generating functions, probability generating functions
+  - Probability distribution: Discrete uniform, Bernoulli, binomial, Poisson, geometric, uniform, exponential and normal distributions, applications of the normal distribution, sampling distribution of the sample means
+  - Joint distributions: Joint distributions, marginal distribution, conditional distributions, conditional expectation and variance
+Teaching/Learning Methods:
+  - Lectures
+  - Class discussions
+  - Textbook assignments
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - Ghahramani, “Fundamentals of Probability”, 2004.
+  - M. R. Spiegel, “Probability Schaum’s Outline Series”, 2000.
+
+--------------------------------------------------------------------------------
+Course: CSC106S3: Human Computer Interaction
+Course Title: Human Computer Interaction
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: 30
+  - Independent Learning: 90
+Objectives: Introduce principles and methods to build effective computer interfaces for users
+Intended Learning Outcomes:
+  - Explain the fundamental theories of Human Computer Interaction (HCI), key features of interaction and common interaction styles.
+  - Evaluate heuristic user interfaces by using a variety of analysis and design methods
+  - Apply user-centered and contextual design techniques for human computer interface design scenarios
+  - Implement a prototype of a user interface for a system that satisfies usability requirements
+Contents:
+  - Foundations of Human Computer Interaction (HCI) and the Design Process: Human Capabilities, Interaction Design Basics, HCI in the Software Process, Design Rules, Universal Design, The Human Body and Device Design
+  - Human Cognition and Interaction Styles: Goals, Operators, Methods, and Selection (GOMS), Keystroke-Level Modelling, Time-scales and the Illusion of Multitasking, Metaphor, Direct Manipulation, Command Languages
+  - Usability Engineering: Observing Users, Usability Analysis – Error Handling, Error Prevention, Cognitive Walkthroughs, Heuristic Evaluation, Usability Guidelines, Usability Methods; Prototyping, Task Analysis, User-Centered Design
+  - User Interface Programming: Interface Implementation, Events and Handlers, Development Tools
+  - Recent Development in HCI: Groupware, Ubiquitous Computing, Virtual and Augmented Realities, Hypertext and Multimedia
+Teaching/Learning Methods:
+  - Lectures
+  - Modelling in various media
+  - Construction of diagrams
+  - Case studies
+Assessment Strategy:
+  - In-course Assessments (Theory) —————————————15%
+  - In-course Assessments (Practical) ————————————-15%
+  - End-of-course Examination ——————————————–70%
+References:
+  - H. Sharp, Y. Rogers, and J. Preece. Interaction Design: Beyond human-computer interaction, 4th Ed., Wiley Publishers, 2015.
+  - B. Shneiderman, C. Plaisant, M. Cohen and S. Jacobs. Designing the User Interface: Strategies for Effective Human-Computer Interaction, 5th Ed., Addison Wesley publishers, 2010.
+
+--------------------------------------------------------------------------------
+
+Course: CSC107S2: Multimedia Technologies
+Course Title: Multimedia Technologies
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Provide in-depth knowledge in technologies to develop multimedia-based contents
+Intended Learning Outcomes:
+  - Explain the fundamental principles of multimedia
+  - Demonstrate compression techniques used in multimedia
+  - Discuss theories behind the multimedia components
+  - Design contents using multimedia technologies
+Contents:
+  - Introduction: Uses of multimedia, interaction technologies, multimedia hardware and devices
+  - Compression techniques in multimedia: compression basics, lossless and lossy compression techniques
+  - Text in multimedia: Visual representation of text, digital representation of characters
+  - Fundamentals of colours, colour models and dithering
+  - Fundamentals of images: characteristics of images, image file formats, and image compression standards
+  - Digital audio: sound processing, representation of audio files
+  - Fundamentals of video and animation: analogue and digital video standards, video processing, video compression standards and file formats, basics of animation
+  - Designing multimedia contents: Development phases, multimedia authoring and tools, multimedia in the internet
+Teaching/Learning Methods:
+  - Lectures
+  - Recitation of oral questions
+  - Use of chalkboard and multimedia presentations
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - Z.N. Li and M.S. Drew, “Fundamentals of Multimedia”, 2nd Ed., 2014.
+  - A. Banerji; A. M. Ghosh, “Multimedia technologies”, 2010.
+  - T.M. Savage and K.E. Vogel, “An Introduction to Digital Multimedia”, 2nd Ed., 2013.
+
+--------------------------------------------------------------------------------
+
+Course: CSC108S2: Design of Algorithms
+Course Title: Design of Algorithms
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Provide in-depth knowledge in different algorithmic approaches for problem solving
+Intended Learning Outcomes:
+  - Demonstrate familiarity of various algorithm design techniques and their applications
+  - Use different strategies to compare the performance of algorithms
+  - Discuss the usages of different Iterative and recursive algorithms
+  - Apply different algorithmic approaches and concepts for solving computational problems
+Contents:
+  - Algorithm Analysis: Informal comparison of algorithm efficiency, best, expected, and worst case behaviors, time and space trade-offs in algorithms, Asymptotic analysis (big O, little o, big Ω and big Θ notations)
+  - Problem-solving strategies: Iterative and recursive algorithms
+  - Brute-force and Greedy methods: Concepts of Brute-force and Greedy methods, applications of Brute-force and Greedy methods for solving problems (String matching, counting coins, Knapsack problem, Huffman Coding, Activity-selection, Scheduling problems)
+  - Searching and sorting in arrays and their complexities: Linear search, binary search, selection sort, insertion sort, bubble sort
+Teaching/Learning Methods:
+  - Lectures
+  - Class discussions
+  - Textbook assignments
+  - Laboratory practical
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - T. Cormen, C. Leiserson, R. Rivest, C. Stein, Introduction to Algorithms, 3rd Ed., MIT Press, 2009.
+  - R. Sedgewick and K. Wayne, Algorithms, 4th Ed., Addison Wesley Publishers, 2011.
+
+--------------------------------------------------------------------------------
+
+Course: CSC109S2: Introduction to Computer Security and Cryptography
+Course Title: Introduction to Computer Security and Cryptography
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Introduce Computer security principles and cryptography, and analyse the need of Public key infrastructure and its applications
+Intended Learning Outcomes:
+  - Describe the concepts of computer security and cryptography
+  - Explain notions of threat, vulnerability, and attacks
+  - Utilise different symmetric key and public key encryption algorithms
+  - Discuss the importance of Public key Infrastructure and its applications
+Contents:
+  - Foundations of computer security: introduction to computer security and cryptography
+  - Concepts of risks, threats, vulnerabilities and types of attacks: computer security attacks, types, attacker goals, motivations (such as underground economy, digital espionage, cyberwarfare, insider threats, hacktivism, advanced persistent threats), examples of malware, organizational vulnerabilities and threats
+  - Key security properties: confidentiality, integrity and availability
+  - Concepts of authentication, authorization and access control: OSI security architecture, security services and security mechanisms
+  - Classical encryption techniques: Symmetric key ciphers, substitution techniques, transposition techniques, other classical encryption tools, key management techniques
+  - Public-key cryptography and its applications: introduction to PKI, hash functions, digital signatures and digital certificates, secure web browsing, e-commerce, secure authentication
+Teaching/Learning Methods:
+  - Lectures
+  - Class discussion
+  - Recitation oral questions
+  - Lecture demonstration
+  - Small group discussions
+  - Use of slides
+  - Textbook assignments
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - W. Stallings, Cryptography and Network Security: Principles and Practice, 6th Ed., 2013.
+  - J. Katz and Y. Lindell. Introduction to Modern Cryptography, 2nd Ed., 2014.
+
+--------------------------------------------------------------------------------
+
+Course: CSC110S2: Organisational Behaviour
+Course Title: Organisational Behaviour
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Provide students with an awareness of the concept of organisational behaviour and determinants of human behaviour in organisation
+Intended Learning Outcomes:
+  - Identify individual level, group level and organizational level factors which influence human behaviour at work
+  - Describe the ways of developing personality, changing attitudes and motivating employees
+  - Define leadership theories, communication skills and change management approaches
+  - Outline the stress and conflict management techniques
+Contents:
+  - Introduction to organisational behaviour
+  - Personality, values, attitudes, perception, learning and reinforcement
+  - Motivation in the workplace setting
+  - Group and interpersonal process
+  - Foundations of leadership
+  - Conflict and negotiation
+  - Essentials of interpersonal communication
+  - Organisational change management
+Teaching/Learning Methods:
+  - Lectures
+  - Guest lectures
+  - Class discussions
+  - Small group discussions
+  - Case studies
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - F. Luthans, Organisational Behaviour, 12th Ed., 2010.
+  - J.W. Newstrom and K. Davis, Organisational Behaviour: Human Behaviour at Work, 2004.
+  - L.J. Mullins, Organisational Behaviour, 11th Ed., 2013.
+
+--------------------------------------------------------------------------------
+
+Course: CSC111S2: Mathematics for Computing II
+Course Title: Mathematics for Computing II
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Provide a solid foundation of Mathematics to apply them to solve problems in Computer Science
+Intended Learning Outcomes:
+  - Describe basic properties of integers
+  - Use Euclid’s algorithm
+  - Solve systems of linear congruences
+  - Describe basics of finite group theory
+Contents:
+  - Number theory: Introduction, integers, factors and Euclid’s algorithm, unique factorization, linear congruences, Inverses, Chinese remainder theorem, Fermat’s Theorem
+  - Group theory: Definitions and examples, order of elements, subgroups, cosets and Lagrange’s theorem, cyclic groups
+Teaching/Learning Methods:
+  - Lectures
+  - Class discussions
+  - Textbook assignments
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - D. Burton, “Elementary Number Theory”, 2010.
+  - J.B. Fraleigh, “A First course in abstract algebra”, 2002.
+  - G.A. Jones and J.M. Jones, “Elementary number theory”, Springer, 1998.
+  - B. Baumslag and B. Chandler, “Group Theory”, 1968.
+
+--------------------------------------------------------------------------------
+
+Course: CSC112S3: Statistics for Computing II
+Course Title: Statistics for Computing II
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 45
+  - Practical: —
+  - Independent Learning: 105
+Objectives: Train students in applying statistical methods in proposing solutions for real world problems to be solved with computer.
+Intended Learning Outcomes:
+  - Examine data using summary statistics and graphical methods
+  - Outline different methods of parameter estimation in Statistics
+  - Discuss the principles of hypothesis testing with applications
+  - Apply simple linear regression technique to real world issues
+Contents:
+  - Descriptive Statistics: Types of data, population, sample, parameter, statistic, tabular and pictorial presentation of data, summary statistics, measures of central tendency and dispersion, skewness, kurtosis
+  - Point and Interval Estimation: Sampling distributions, central limit theorem, confidence intervals for one-sample, two–sample population characteristics, sample size calculation for parameter estimation, interpretation of confidence intervals
+  - Testing Hypotheses: Steps in hypothesis testing, level of significance, Type–I and Type–II errors, p–value, power of test, Z–test, t–test, χ2 test, and F-test, goodness of fit test
+  - Simple linear regression: Correlation, simple linear regression, least square estimation, interpretation of regression parameters, application of simple linear regression
+Teaching/Learning Methods:
+  - Lectures
+  - Tutorial discussions
+  - Laboratory sessions
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - D.S. Moore, G.P. McCabe and B. Craig, Introduction to the Practice of Statistics, 6th Edition, 2009.
+  - R.E. Walpole, R.H. Myers, S.L. Myers, K.E. Ye, “Probability and Statistics for Engineers and Scientists”, 9th Edition, 2010.
+  - S.A. Lesik, “Applied Statistical Inference with Minitab”, 2009.
+
+--------------------------------------------------------------------------------
+Course: CSC201S2: Database Systems Concepts and Design
+Course Title: Database Systems Concepts and Design
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Introduce database system concepts and fundamentals necessary for designing, implementing, and manipulating databases.
+Intended Learning Outcomes:
+  - State key characteristics of a database
+  - Develop conceptual models for databases
+  - Create efficient databases
+  - Apply query language to create and manipulate databases
+Contents:
+  - Introduction to database concepts and architecture: File systems, database system concepts, three-schema architecture, classifications of database systems and database users
+  - Data Modeling: Entity Relationship model, relational model, network model, hierarchical model, object relational model, UML class diagrams
+  - Relational database design: Relational model concepts, defining a relational schema from an ER diagram, basics of functional dependencies and normalization (1NF, 2NF, 3NF and BCNF)
+  - Developing and manipulating databases: Data development and manipulation using SQL, MySQL, PostgreSQL and MongoDB
+  - Relational algebra and relational calculus: Binary operations, Cartesian product, extended relational operator, tuple relational calculus and domain relational calculus
+  - File organization for conventional DBMS: Storage devices and their characteristics, file organization, fixed-length records, variable-length records, sequential file organization, indexed sequential access method
+  - Introduction to transaction management, concurrency control and recovery: Concept of transactions, concurrency in transaction processing, recovering databases from failure
+Teaching/Learning Methods:
+  - Lectures
+  - Recitation oral questions
+  - Guided learning
+  - Tutorial discussions
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - Ramez Elmasri and Shamkant B. Navathe, Fundamentals of Database Systems, 7th Ed, Addison-Wesley, 2015.
+  - J. Date, An Introduction to Database Systems, 8th Ed, Addison-Wesley, 2003
+  - Ramakrishnan and Gehrke, Database Management Systems, 3rd Ed., McGraw-Hill, 2003.
+
+--------------------------------------------------------------------------------
+
+Course: CSC202S2: Computer Programming II
+Course Title: Computer Programming II
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: —
+  - Practical: 90
+  - Independent Learning: 110
+Objectives: Develop proficiency in writing programs to solve computational problems using suitable data structures.
+Intended Learning Outcomes:
+  - Implement appropriate data structures to manipulate data for various computational problems
+  - Devise programs to solve complex computational problems
+  - Create databases using database management systems
+  - Develop web based applications that interact with databases
+Contents:
+  - Designing and Implementing algorithms: Recursion, backtracking, Divide-and-conquer, and Dynamic programming
+  - Fundamental data structures and their applications: Arrays, Lists, Stacks, Queues, Linked lists, Trees, and Graphs
+  - Database design, modeling and development: SQL (MySQL, MariaDB) and NoSQL (MongoDB, PostgreSQL)
+  - Develop web based applications: Web development using HTML, CSS and Scripting languages (PHP, JavaScript, JQuery, NodeJS)
+Teaching/Learning Methods:
+  - Lectures
+  - Laboratory practicals
+  - Guided learning
+  - Assignments
+  - Continuous practical recordings
+Assessment Strategy:
+  - Assessment on practical records ———————————–10%
+  - End-of-First Semester Practical Assessment ———————-30%
+  - End-of-Second Semester Practical examination ——————60%
+References:
+  - P. Deitel and H. Deitel, Java How To Program (Early Objects), 10th Ed, Prentice Hall, 2014.
+  - R. Sedgewick and K. Wayne, Algorithms, 4th Ed., Addison Wesley Publishers, 2011.
+  - N. Karumanchi, Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles, 5th Ed, 2016
+  - D. Kalemis, The Fundamental Concepts of Object-Oriented Programming, 2013.
+  - R. Elmasri and S. B. Navathe, Fundamentals of Database Systems, 7th Ed, Addison-Wesley, 2015.
+  - D. Bartholomew, Getting Started with MariaDB, 2nd Ed, 2015.
+
+--------------------------------------------------------------------------------
+
+Course: CSC203S2: Operating Systems
+Course Title: Operating Systems
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Provide fundamental concepts and functionalities of operating systems.
+Intended Learning Outcomes:
+  - Describe the objective and functions of modern operating systems
+  - Explain how resources (such as CPU, memory, storage, file and devices) are managed by the operating system
+  - Demonstrate the operations of a prototypical process manager
+  - Compare various techniques used for concurrency control
+Contents:
+  - Introduction to operating system: Architecture of modern operating systems (OS), evolution of OS, OS operations and functionalities, and open source OS
+  - Processes and Threads: Concept of process, process states, process control block, schedulers, context switch, interprocess communication, process scheduling, overview of threads, multicore programming and multithreading models
+  - Concurrency: Process synchronisation (race condition, critical-section problem, mutex locks, semaphores, classic problems of synchronization and monitors), deadlock (characterization, prevention, avoidance, detection and recovery)
+  - Memory management: Swapping, memory allocation, fragmentation, paging, segmentation, virtual memory and address translation
+  - Storage management: Mass Storage, host attached storage, network attached storage, storage area network and RAID
+  - File and I/O Device management: File organization and access, file system security, device drivers, direct memory access and interrupt handling
+Teaching/Learning Methods:
+  - Lectures
+  - Case studies
+  - Use of chalkboard
+  - Simulation
+  - Recitation oral questions
+  - Guided learning
+  - Tutorial discussions
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - W. Stalling, Operating systems: Internals and Design Principles, 8th Ed, Pearson, 2014.
+  - A. Silberschatz, P. B. Galvin, G. Gagne, Operating System Concepts, 9th Ed, 2013.
+  - S. Tanenbaum and H. Bos, Modern Operating Systems, 4th Ed, 2014.
+
+--------------------------------------------------------------------------------
+
+Course: CSC204S2: Data Structures & Algorithms
+Course Title: Data Structures & Algorithms
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Introduce common data structures and standard algorithms for solving various types of problems.
+Intended Learning Outcomes:
+  - Analyse the correctness and the performance of complex algorithms
+  - Discuss the implementation of standard data structures
+  - Demonstrate skills in solving complex computational problems using suitable data structures
+  - Explain the divide-and-conquer paradigm and dynamic programming strategies and their usages
+Contents:
+  - Proof of correctness of algorithms: Contrapositive and contradiction, Induction, and Loop invariants
+  - Recurrence relations: Analysis of iterative and recursive algorithms (Quick sort and merge sort, etc.)
+  - Fundamental Data Structures: Arrays, Lists, Stacks, Queues, Linked lists, Trees, and Graphs
+  - Algorithm Design and Implementation Techniques: Divide-and-conquer paradigm, Dynamic programming algorithms, Recursive, and backtracking
+  - Applications of Trees and Graphs: Binary search, Dijkstra’s shortest path, minimum spanning tree
+Teaching/Learning Methods:
+  - Lecture
+  - Class discussions
+  - Tutorial discussions
+  - Assignments
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - T. Cormen, C. Leiserson, R. Rivest, and C. Stein, Introduction to Algorithms, 3rd Ed., MIT Press, 2009.
+  - R. Sedgewick and K. Wayne, Algorithms, 4th Ed., Addison Wesley Publishers, 2011.
+  - N. Karumanchi, Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles, 5th Ed. 2016.
+  - S. S. Skiena, The Algorithm Design Manual, 2nd Ed., Springer, 2011.
+
+--------------------------------------------------------------------------------
+Course: CSC205S2: Software Engineering
+Course Title: Software Engineering
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Introduce all phases of the life cycle of a software system including requirements analysis and specification, design, construction, testing, deployment, operation, and maintenance.
+Intended Learning Outcomes:
+  - Discuss the software engineering principles and life-cycle
+  - Identify different roles played by personnel in software development and their responsibilities
+  - Construct software designs based on user requirements
+  - Apply appropriate techniques in software development, testing, maintenance, and evolution
+Contents:
+  - Introduction to Software Engineering: Software characteristics, impact of software, importance of engineering approaches, challenges and ethics in software development
+  - Introduction to systems analysis and design: Types of systems (transaction processing, management information, decision support, etc.), need for systems analysis and design, the system development life cycle, roles played by different personnel in system development life cycle including the role of the systems analyst
+  - Software development process models: Waterfall model, prototyping model, spiral model, evolutionary model, iterative model and agile methodology
+  - Software requirements and specifications: Types of requirements, requirement gathering processes and techniques, documenting requirements
+  - Software analysis techniques: Data flow diagrams, data dictionaries, process specifications and structured decisions
+  - Software design techniques: Object-oriented design using UML, Agile methodologies using SCRUM
+  - Software testing: Development testing, test-driven development, release testing and user testing
+  - Software maintenance and evolution: Evolution processes, program evolution dynamics, software maintenance and legacy system management
+Teaching/Learning Methods:
+  - Lecture
+  - Case studies
+  - Recitation oral questions
+  - Small groups discussions
+  - Guided learning
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - L. Sommerville, Software Engineering, 10thEd, 2015.
+  - E. Kendall and J. E. Kendall, System Analysis and Design, 9thEd, 2013.
+  - R. E. Beasley, Software Engineering: Principles and Practices, 2ndEd, 2015.
+
+--------------------------------------------------------------------------------
+
+Course: CSC206S4: Mathematics for Computing III
+Course Title: Mathematics for Computing III
+Credit Value: 04
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 60
+  - Practical: —
+  - Independent Learning: 140
+Objectives: Encourage computer science students more aware of the importance of linear algebra in various computer science topics.
+Intended Learning Outcomes:
+  - Develop an understanding of the theory of vector spaces.
+  - Use the theory of linear transformations and their matrix representation
+  - Solve systems of linear equations and understand the conditions for the existence of solution
+  - Use determinations and spectral properties.
+Contents:
+  - Vectors in Rn, norms and inner products in Rn, Cauchy-Schwartz and triangular inequalities, Gram-Schmidt process.
+  - Elementary operations and elementary matrices, echelon and row reduced echelon matrices.
+  - Vector spaces, linear dependence, and independence, subspaces, basis and dimension, Steinitz replacement theorem.
+  - Linear transformations, matrix representation and change of base, column rank, row rank and nullity of matrix.
+  - Determinants and their properties, invertibility of a square matrix, Eigen values and Eigen vectors, characteristic polynomials, cayley-Hamilton theorem, orthogonal, symmetric and skew symmetric matrices, quadratic forms, diagonalization, System of linear equations.
+Teaching/Learning Methods:
+  - Use of chalkboard
+  - Tutorial
+  - Textbook assignments
+  - Guided learning
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - Devi Prasad, Elementary Linear Algebra, 2ndEd, Narosa Publishing House, New Delhi, 2012
+  - David Lay C, Linear Algebra and Its Applications, 4thEd, Pearson (Addison Wesley) Publication, 2012
+  - Seymour Lipschutz, Schaum’s Theory and problems of linear algebra, 2011
+  - Datta K.B, Matrix and Linear Algebra, Prentice hall of India Pvt. Ltd, New Delhi–110001, 2003
+
+--------------------------------------------------------------------------------
+
+Course: CSC207S3: Computer Architecture
+Course Title: Computer Architecture
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: 45
+  - Independent Learning: 75
+Objectives: Understand the design of a digital computer including the structure of a microprocessor, memory organisation and program execution cycle.
+Intended Learning Outcomes:
+  - Explain the conceptual design and the organisation of a computer system
+  - Describe processor unit design and its operations
+  - Summarise memory and Input/Output organisation
+  - Build Assembly language programs
+Contents:
+  - Introduction to modern computer architecture: Architectural and technological design and development, and performance measures of a processor
+  - Instruction set architecture models: Instruction set architectures and design, memory locations and operations, addressing modes, instruction types, microprogramming
+  - Processing unit design: CPU basics, register set, data path, CPU instruction cycle, control unit design, instruction pipelining techniques
+  - Memory hierarchies and Input/Output organisation: Memory structure and hierarchy, cache memory mapping, direct memory access, virtual memory, interrupt-driven I/O, and Input-Output interfaces
+  - Assembly language programming: Instructions mnemonics and syntax, assembler directives and commands, assembly and execution of programs
+Teaching/Learning Methods:
+  - Lecture
+  - Programming practical sessions
+  - Tutorial discussions
+  - Assignments
+  - Guided learning
+Assessment Strategy:
+  - In-course Assessment (Theory) —————————— 10%
+  - In-course Assessment (Practical) —————————- 30%
+  - End-of-course Examination ———————————- 60%
+References:
+  - D. A. Patterson and J. L. Hennessy, Computer Organization and Design: The Hardware and Software Interface, Morgan Kaufmann Publishers, 5thEd, 2013.
+  - M. Abo-El-Barr and H. El-Rewini, Fundamentals of Computer Organization and Architecture, A John Wiley & Sons Publication, 2004.
+  - W. Stallings, Computer Organization and Architecture, Prentice Hall Publishers, 10thEd, 2015.
+
+--------------------------------------------------------------------------------
+
+Course: CSC208S3: Concepts of Programming Languages
+Course Title: Concepts of Programming Languages
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: 30
+  - Independent Learning: 90
+Objectives: Provide an overview of the basic concepts that appear in modern programming languages, the principles that underlie the design of programming languages, and their features.
+Intended Learning Outcomes:
+  - Describe the fundamental issues in the design and the use of major programming languages
+  - Demonstrate the differences of programming paradigms in different programming languages
+  - Discuss the use of formal methods for program verification
+  - Build concurrent and functional programs
+Contents:
+  - Introduction: Programming domains, evaluation criteria for programming languages, influences on language design, programming language categories
+  - Introduction to syntactic and semantic description of programming languages
+  - Programming paradigms in different programming languages: Data types, Abstract data types, Data objects, Control structures, subprograms, lifetime and scope of variables and functions, object-oriented programming, exception handling
+  - Concurrency: Basics of concurrency, subprogram-level concurrency, monitors, message passing, threads
+  - Functional programming: Fundamentals and programming with functional programming languages
+Teaching/Learning Methods:
+  - Lectures
+  - Practical sessions
+  - Tutorial discussions
+  - Assignments
+Assessment Strategy:
+  - In-course Assessment (Theory)  ——————————– 10%
+  - In-course Assessment (Practical) ——————————- 30%
+  - End-of-course Examination ————————————- 60%
+References:
+  - R. W. Sebesta, Concepts of Programming Languages, Pearson, 2016.
+  - J. C. Mitchell, Concepts in Programming Languages, Cambridge University Press, 2003.
+  - C. Ghezzi and M. Jazayeri, Programming language concepts, 3rd Ed, 1997.
+
+--------------------------------------------------------------------------------
+Course: CSC209S3: Bioinformatics
+Course Title: Bioinformatics
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: 30
+  - Independent Learning: 90
+Objectives: Provide theoretical and practical knowledge in Bioinformatics including analysis of protein and genome sequences by various computational tools.
+Intended Learning Outcomes:
+  - Describe computational genomics and phylogenetics concepts
+  - Demonstrate the use of computational tools for sequence analysis in bioinformatics
+  - Perform Data analysis and Pattern recognition in biological data
+  - Formulate a biological problem as a computational problem
+Contents:
+  - Introduction to bioinformatics: Aims and tasks of bioinformatics, scope of bioinformatics and its applications, bioinformatics databases.
+  - Structural bioinformatics: Protein structure and its visualisation, comparison and classification, protein structure prediction, RNA structure prediction, compression of genomic sequences such as Burrows–Wheeler transform, etc.
+  - Pairwise sequence alignments and database search: Scoring matrix, Needleman-Wunsch algorithm, Smith-Waterman algorithm, Gotoh algorithm, heuristic methods
+  - Phylogenetic tree and multiple sequence alignment: Neighbour-joining and UPGMA algorithms, phylogenetic tree, Sequence profile & profile based alignments
+  - Pattern Recognition: Clustering and visualisation, Hidden Markov models and Viterbi algorithm
+  - Genomics and proteomics: Genome mapping, genome assembly, genome comparison, functional genomics, proteomics and metabolomics
+Teaching/Learning Methods:
+  - Lectures
+  - Practical demonstration
+  - Recitation oral questions
+  - Vocabulary drills
+  - Simulations
+Assessment Strategy:
+  - In-course Assessment (Theory) ————————————– 10%
+  - In-course Assessment (Practical) ———————————— 30%
+  - End-of-course Examination —————————————— 60%
+References:
+  - B. Bergeron, Bioinformatics Computing, Prentice Hall, 2002.
+  - K. Stephen, Introduction to Bioinformatics: A Theoretical and Practical Approach, 1stEd, 2003
+  - F. Azuaje and J. Dopazo, Data Analysis and Visualization in Genomics and Proteomics, John Wiley, 1stEd, 2005
+
+--------------------------------------------------------------------------------
+
+Course: CSC210S3: Web Technologies
+Course Title: Web Technologies
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 15
+  - Practical: 60
+  - Independent Learning: 75
+Objectives: Develop proficiency in designing web applications using different emerging technologies and best practices.
+Intended Learning Outcomes:
+  - Design websites using advanced features of Markup and Client-side scripting languages
+  - Use XML technologies for web applications
+  - Employ knowledge on web programming to develop and maintain web applications
+  - Develop secure web-based systems using server-side scripting languages
+  - Recommend practices that ensure legal and ethical responsibilities
+Contents:
+  - Advanced use of scripting languages: Client-side scripting (HTML, CSS, JavaScript, etc.) and Server-side scripting (PHP, JSP, ASP, etc.)
+  - XML Technologies: XSL, XSLT, xPath and xQuery
+  - Secure web programming: Authentication, access control, session management, SQL injections and cross site scripting (XSS)
+  - Trends in Web development: Web 2.0, AJAX, JSON, Web Services
+  - Best practices in Web Development: Architectural patterns, search engine optimization (SEO), frameworks, auditing and logging
+Teaching/Learning Methods:
+  - Lectures
+  - Practical demonstration
+  - Assignments
+  - Small group discussions
+  - Individual mini projects
+Assessment Strategy:
+  - In-course Assessments (Theory) ———————————– 10%
+  - In-course Assessments (Practical) ——————————— 30%
+  - End-of-course practical Examination —————————– 60%
+References:
+  - S. Purewal, Learning Web App development, 1stEd., 2014.
+  - D. Stuttard and M. Pinto, The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws, 2ndEd., 2011.
+  - J. J. Jackson, Web Technologies: A Computer Science Perspective, 1st Ed., 2006.
+  - A. Godbole and A. Kahate, Web Technologies, TCP/IP, Web/Java Programming, and Cloud Computing, McGraw Hill Education, 3rd Ed, 2017.
+
+--------------------------------------------------------------------------------
+
+Course: CSC211S2: Emerging Trends in Computer Science
+Course Title: Emerging Trends in Computer Science
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 15
+  - Practical: 30
+  - Independent Learning: 55
+Objectives: Provide an overview of the emerging trends in computer science.
+Intended Learning Outcomes:
+  - Demonstrate familiarity with latest trends in computer science and their applications
+  - Describe the key architectures and applications in edge computing
+  - Summarise standard open-source cloud and edge computing software for data analytics
+  - Build microcontroller programs for IoT
+  - Discuss the latest languages and frameworks used in IT industries
+Contents:
+  - Edge computing: Introduction to edge computing, cloud computing analytics pipeline, cloud databases
+  - Data analytics: Introduction to deep learning, data mining, and its applications; introduction to hadoop, spark, and mapreduce
+  - Internet of things (IoT): IoT concepts and technologies, its applications, micro-controller programming using sensors and actuators with arduino, IoT security and privacy issues
+  - Blockchain: Fundamentals of blockchain, distributed ledger technology, cryptocurrency, and related algorithms
+  - Introduction to mobile application development: Mobile app development platforms (Android, iOS, etc.), development and deployment of applications
+  - [The course content will come directly from research papers, articles, and documentation of cloud and data center architectures and technologies.]
+Teaching/Learning Methods:
+  - Lectures
+  - Guest lectures
+  - TechTalks
+  - Workshops
+  - Industrial visit
+Assessment Strategy:
+  - Formative Assessment: Industrial Visit* ——————————————10%
+  - Summative Assessment: Individual/Group Assignments† ———————-90%
+  *Students will be taken to four to six leading software development companies in Sri Lanka in one or two industrial visit(s). Each visit may take up to three days. The type of assignments includes but are not limited to presentations and report writings on the observation of the industrial visit.
+  †At the end of each of the five chapters, students will be given five assignments (including programming tasks) based on the key areas covered in the five chapters. Of the five assignments, at most two may be done in groups.
+References:
+  - Holler, V. Tsiatsis, C. Mulligan, S. Avesand, S. Karnouskos and D. Boyle, “From Machine-to-Machine to the Internet of Things: Introduction to a New Age of Intelligence”, 1stEd, Academic Press, 2014.
+  - Conference and journal papers related to the course material will be posted on the course website.
+
+--------------------------------------------------------------------------------
+
+Course: CSC212S2: Professional Practice
+Course Title: Professional Practice
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Provide a viewpoint on the commercial realities of software professionals and their required behavioural skills in day to day activities as an Information Technology professional.
+Intended Learning Outcomes:
+  - Discuss the concepts of professional practice in computing
+  - Explain the context in which computer professionals work
+  - Apply the key skills, knowledge, attributes and attitudes required to be an IT professional, with particular reference to professional practice, code of ethics and professional standards
+  - Analyse legal issues in relation to data privacy and software use
+  - Recognize professional conduct in an ethical manner in day to day activities as an IT professional
+  - Apply the principles of group work and reflect on the nature of working in teams, with the appreciation of the issues, such as ethics, conflict resolution, negotiation in culturally diverse workplace
+Contents:
+  - Computer ethics and professional practice: Ethical argumentation and theories, moral assumptions and values, the role of computing professional, and professional communication practices
+  - Intellectual property: Intellectual property rights, Intangible digital intellectual property, legal foundations for intellectual property protection
+  - Privacy and data protection: Privacy of computer data, respecting human dignity, protecting data stored on computers, ethical hacking and its implications
+  - Security policies, laws and computer crimes: Computer crimes and legal redress for computer criminals, Issues surrounding the misuse of access and breaches in security, crime prevention strategies
+Teaching/Learning Methods:
+  - Lecture
+  - Small group discussions
+  - Tutorial classes
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - G. W. Reynolds, Ethics in Information Technology, 5thEd, 2014.
+  - M. F. Bott, Professional Issues in Information Technology, The British Computer Society, 2ndEd, 2014.
+  - ACM Code of Ethics, ACM,www.acm.org, 2017.
+
+--------------------------------------------------------------------------------
+
+Course: CSC301S3: Rapid Application Development
+Course Title: Rapid Application Development
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 45
+  - Practical: —
+  - Independent Learning: 105
+Objectives: Provide knowledge, skills, and attitudes to rapidly develop software applications by choosing suitable approaches and best practices
+Intended Learning Outcomes:
+  - Describe the concepts of software development methodologies
+  - Demonstrate the importance of Rapid Application Development (RAD) and its key elements
+  - Discuss how systems analysts interact with users, management, and other information systems professionals for gathering requirements
+  - Analyse the development lifecycle of a given software project
+  - Develop a software rapidly by best practices and tools
+Contents:
+  - Introduction to RAD: Issues with traditional software development, advantages and disadvantages of RAD practices, pillars of RAD
+  - Key elements of RAD: Teamwork, risk management, project scheduling, project estimation
+  - Agile Software Development: Agile manifesto, agile methodologies such as SCRUM, extreme programming, Lean, and Kanban, Agile vs waterfall model
+  - Information Requirements Analysis: Determining system requirements, Interactive information gathering methods such as interviewing, Joint Application Development and Questionnaires. Unobtrusive information gathering methods such as sampling and investigation.
+  - Analysis Process: Data flow diagrams, analysing systems using data dictionaries, process specifications and structured decisions, designing effective input and output, designing databases
+  - Testing: Fundamentals of testing, black-box testing techniques, white box testing techniques, levels of testing, test cases
+  - Quality Assurance and Implementation: Ensuring data quality, six sigmas, quality assurance through software engineering, implementing information system, software testing process, evaluation techniques
+  - Best Practices and Tools: Software architectural patterns, software design patterns and software version control (SVC)
+  - Software Project Management: Work breakdown and cost estimation, Break-even analysis, cash-flow analysis, present value analysis, project scheduling using Gantt chart and PERT diagrams
+Teaching/Learning Methods:
+  - Lectures
+  - Tutorial discussions
+  - Case studies
+  - Assignments
+  - Guided Learning
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - A. Stellman and J. Greene, Learning agile: Understanding Scrum, XP, lean, and kanban. O’Reilly, 2014.
+  - S. McConnell, Rapid development: Taming wild software schedules, Pearson Education, 1996.
+  - J. Loeliger, Version Control with Git, O’Reilly Media, 2012.
+  - E. Kendall and J. E. Kendall, System Analysis and Design, 9th Ed, Pearson, 2013.
+
+--------------------------------------------------------------------------------
+Course: CSC302S2: Computer Programming III
+Course Title: Computer Programming III
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: —
+  - Practical: 90
+  - Independent Learning: 110
+Objectives: Provide hands on practice in network socket programming, computer graphics, rapid application development, and network & server management
+Intended Learning Outcomes:
+  - Apply rapid development methodologies used in the software industry
+  - Create software applications using development frameworks
+  - Practice application programming interface (API) for computer graphics
+  - Make use of computer graphics algorithms for its applications
+  - Write socket programming using Python libraries
+  - Setup web servers to enable interactions with other web servers using network protocols
+  - Demonstrate skills to configure, administer and secure local area network devices
+  - Administer Linux based systems
+Contents:
+  - Version Control Systems: Introduction to GitHub and its workflow, branching, merging pull requests, working with teams on GitHub, creating task lists
+  - Development frameworks: Introduction to frameworks such as Laravel, setting up and install Laravel framework
+  - Software Applications: View/Session/Application management, databases in web application with Laravel
+  - Socket programming using Python: Client-server and TCP/UDP programming, multithreaded proxy server, reliable transport layer programs, distributed programs to implement routing algorithms, open and proprietary network applications development
+  - Network Design, Management and Troubleshooting: Setting up LAN, configuring and managing devices such as switches and routers with access controls, IP address configurations and troubleshooting
+  - Host Administration with LINUX: Basic commands, files, directories and file system, editors, processes, users and group management, package management, shell scripts
+  - OpenGL: Construction of interactive user interfaces, fundamentals of 2D and 3D graphics
+  - Computer Graphics Algorithms and Methods: Object modelling and representation, mapping and clipping, 2D and 3D transformations, rendering for visual realism
+Teaching/Learning Methods:
+  - Lectures
+  - Use of multimedia presentations
+  - Laboratory experiments
+  - Tutorial discussions
+  - Assignments
+Assessment Strategy:
+  - Semester-1
+    - In-course Assessments (Practical): 20%
+    - End-of-Semester Practical Examination: 30%
+  - Semester-2
+    - In-course Assessments (Practical): 20%
+    - End-of-Semester Practical Examination: 30%
+References:
+  - M. Stauffer, Laravel: Up and Running: A Framework for Building Modern PHP Apps, O’Reilly Media, 2019.
+  - J. Kurose and K. Ross, Computer Networking: A Top-Down Approach, 7th Ed., Addison Wesley, 2017.
+  - S. Guha, Computer Graphics Through OpenGL: From theory to experiments 3rd Ed., CRC, 2019.
+  - W. Odom, CCNA Routing and Switching 200-125 Official Cert Guide Library, 1st Ed., Cisco Press, 2016.
+
+--------------------------------------------------------------------------------
+
+Course: CSC303S2: Data Communication and Computer Networks
+Course Title: Data Communication and Computer Networks
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Provide in-depth understanding of architectures, algorithms, and standards in data communication
+Intended Learning Outcomes:
+  - Describe data communication principles, layered architectures and protocols
+  - Discuss routing and switching principles, and algorithms
+  - Distinguish Local Area Network (LAN) standards, topologies, hardware and their selection criteria for enterprise usage
+  - Formulate network services and applications by taking into account of quality of service, scalability and maintenance
+Contents:
+  - Fundamentals of Digital Communications: Design issues related to data transfer, compare and contrast the circuit and packet switching technologies, multiplexing techniques and error control mechanisms
+  - Network Architectures: Principles of layered architecture, roles of layers in the OSI and TCP/IP models
+  - Internet Protocols: Application layer protocols in the Internet, TCP/IP protocol suite, transport and network protocols with an emphasis on TCP/IP model, IP addressing and subnetting, troubleshooting in IP networks, IP routing mechanisms, IP versions 4 and 6, MAC layer and its protocols
+  - Routing and Switching: Routing and switching fundamentals, router architecture, routing algorithms, issues to consider in designing routing protocols
+  - LAN: Technologies such as IEEE 802 LAN standards, channel allocation in LAN segments and solutions, Ethernet and Ethernet networking using hubs and switches, problems associated in deploying wireless LANs and solutions
+Teaching/Learning Methods:
+  - Lectures
+  - Recitation oral questions
+  - Tutorial discussions
+  - Supplementary reading
+Assessment Strategy:
+  - In-course Assessments: 30%
+  - End-of-course Examination: 70%
+References:
+  - J. F. Kurose and K. W. Ross, Data Communication and Computer Networks: A top-down approach, 7th Ed. Addison Wesley, 2017.
+  - A. S. Tanenbaum, and D. J. Wetherall, Computer Networks, 5th Ed., Pearson Education, 2011.
+  - L. L. Peterson and B. S. Davie, Computer Networks: A Systems Approach, 5th Ed., Morgan Kauffman, 2011.
+
+--------------------------------------------------------------------------------
+
+Course: CSC304S3: Team Software Project
+Course Title: Team Software Project
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 20
+  - Practical: —
+  - Independent Learning: 280
+Objectives: Provide an opportunity to improve the skills and knowledge of students to develop software as a team using software engineering principles
+Intended Learning Outcomes:
+  - Apply software engineering principles and practices for the planning and development of a software product
+  - Practice as an effective player of a software project team
+  - Use appropriate tools, principles and best practices for developing an application
+  - Create professional-quality deliverables
+  - Develop an application based on a given set of requirements in order to deploy the application at the client site
+  - Demonstrate abilities to manage pressures and procedures of a team work in an industrial setup
+Contents:
+  - This course unit introduces and applies a range of topics in software engineering and rapid application development in the context of a team project
+  - Students will be assigned to a group of three to four members and each group works to specify, design, implement, and document a software project
+  - The course unit is oriented around directed and self-paced learning, supported by weekly mentoring and discussions
+Teaching/Learning Methods:
+  - Mentoring
+  - Small group discussions
+  - Case studies
+  - Presentations
+  - Demonstrations
+Assessment Strategy:
+  - Team Software Project Report: 30%
+  - Software product and deployment of the software: 40%
+  - Project Presentation and individual viva-voce: 30%
+
+--------------------------------------------------------------------------------
+
+Course: CSC305S2: Graphics and Visual Computing
+Course Title: Graphics and Visual Computing
+Credit Value: 02
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: —
+  - Independent Learning: 70
+Objectives: Provide in-depth knowledge in the core concepts of computer graphics including object modelling, transformations, and rendering
+Intended Learning Outcomes:
+  - Discuss the fundamental concepts in computer graphics
+  - Describe the standard methods in object modelling and representation
+  - Apply transformation functions to animate 2D and 3D objects on view-planes
+  - Use rendering methods and algorithms to create photo-realistic interactive scenes from 2D and 3D models
+Contents:
+  - Fundamental Concepts: Applications of computer graphics, image representations, vector vs. raster graphics, colour models
+  - Object Modeling and Representation: Rasterization of lines and circles, parametric forms of curves and surfaces, solid modelling with polygonal meshes
+  - Mapping and Clipping: Window to viewport mapping, algorithms for clipping lines, and polygons
+  - 2D and 3D Transformations: Affine transformations in 2D and 3D, coordinate transformations, view plane and view volume, projections, viewing transformation
+  - Basic rendering for visual realism: Visibility and occlusion (such as depth buffering, Painter’s algorithm, and ray tracing), polygon filling, texture mapping, and shading models
+Teaching/Learning Methods:
+  - Lectures
+  - Tutorial discussions
+  - Assignments
+  - Guided learning
+Assessment Strategy:
+  - In-course Assessments: 30%
+  - End-of-course Examination: 70%
+References:
+  - S. Marschner, and P. Shirley, Fundamentals of Computer Graphics, CRC Press, 4th Ed., 2015.
+  - S. Guha, Computer Graphics Through OpenGL: From Theory to Experiments 3rd Edition, CRC, 2019.
+  - D.D. Hearn, M.P. Baker, and W. Carithers, Computer Graphics with OpenGL, 4th Ed., 2010.
+  - S.J. Gortler, Foundations of 3D Computer Graphics, MIT Press, 2012.
+
+--------------------------------------------------------------------------------
+
+Course: CSC306S3: Advanced Database Design and Systems
+Course Title: Advanced Database Design and Systems
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 45
+  - Practical: —
+  - Independent Learning: 105
+Objectives: Provide in-depth understanding of the design, implementation and administration features of database management systems to effectively develop, and manage medium to large-scale databases
+Intended Learning Outcomes:
+  - Describe the concepts of database & distributed database design, and their logical & physical organisations
+  - Design a database using standard practices and tools
+  - Develop advanced queries to handle information retrieval from databases
+  - Explain the concepts of transaction process, concurrency control, and recovery mechanisms
+  - Discuss new developments in database technologies and the impacts of emerging database standards
+Contents:
+  - Relational Modeling: Concepts of data modeling, enhanced entity-relationship(EER) model, use of unified modeling language (UML), higher level normalisation
+  - Physical Organisation of Databases: Storage and file structure, indexing, database efficiency and tuning
+  - Query Optimisation: Factors governing query optimization, centralized query optimization
+  - Transaction: Transaction processing, concurrency control, recovery techniques
+  - Distributed Database Management Systems: Data fragmentation, replication and allocation, transaction processing, concurrency control and recovery in distributed databases
+  - Advanced DBMS Concepts: Advanced technologies in DBMS and enhanced data models
+Teaching/Learning Methods:
+  - Lectures
+  - Tutorial discussions
+  - Assignments
+  - Guided learning
+Assessment Strategy:
+  - In-course Assessments: 30%
+  - End-of-course Examination: 70%
+References:
+  - R. Elmasri and S.B. Navathe, Fundamentals of Database Systems, 7th Ed., Addison-Wesley, 2015.
+  - C.J. Date, An Introduction to Database Systems, 8th Ed., Addison-Wesley, 2003.
+  - Ramakrishnan and Gehrke, Database Management Systems, 3rd Ed., McGraw-Hill, 2003.
+
+--------------------------------------------------------------------------------
+Course: CSC307S3: Advanced Topics in Computer Networks
+Course Title: Advanced Topics in Computer Networks
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 45
+  - Practical: —
+  - Independent Learning: 105
+Objectives: Provide in-depth knowledge in advanced and emerging trends in network virtualisation and software defined networks
+Intended Learning Outcomes:
+  - Demonstrate a deeper understanding of modern computer networks, applications, and network services
+  - Explain how different networking technologies at the same or different layers interact and affect each other in a large-scale system
+  - Appraise network technologies with respect to system requirements, based on information from recent research and technical documentation
+  - Perceive trends in large scale networks such as virtualization and software defined networking capability
+  - Evaluate network technologies, applications, and services through simulation and emulation experiments
+Contents:
+  - Routing in the Internet: Intra and interdomain routing, unicast and multicast routing protocols, traffic classes and measurements, multi-protocol label switching (MPLS), storage area networks (SAN), data and the control planes
+  - Fundamental Properties of Computer Networks: Congestion control, queueing and scheduling, quality of service, quality of experience, Power laws
+  - Software Defined Networks: Distinguish between traditional networks and software defined networks, SDN origins and evolution, centralized and distributed control and data planes, openflow protocol, SDN controllers, Mininet, NOX/POX, network programming using SDNs
+  - Network Virtualization: Introduction to network virtualization, constructing virtual network topologies on top of physical network topologies, virtual machines, architectural issues
+  - Network Measurement: Measurement, modeling and analysis methods using real network data, Wireshark tool to monitor active networks, network simulations and emulations
+Teaching/Learning Methods:
+  - Lectures
+  - Recitation of oral questions
+  - Supplementary reading
+  - Practical demonstration
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - J. F. Kurose and K. W. Ross, Data Communication and Computer Networks: A top-down approach, 7th Ed. Addison Wesley, 2017.
+  - A. S. Tanenbaum, and D. J. Wetherall, Computer Networks, 5th Ed., Pearson Education, 2011.
+  - L. L. Peterson and B. S. Davie, Computer Networks A Systems Approach, 5th Ed., Morgan Kauffman, 2011.
+
+--------------------------------------------------------------------------------
+
+Course: CSC308S3: Artificial Intelligence
+Course Title: Artificial Intelligence
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: 30
+  - Independent Learning: 140
+Objectives: Provide in-depth knowledge on design and analysis of intelligent systems for solving problems that are difficult or impractical to resolve using traditional approaches
+Intended Learning Outcomes:
+  - Formulate an efficient Intelligent system model for a problem expressed in natural language
+  - Use knowledge representation for theorem proving based on resolution procedure
+  - Apply appropriate uninformed, informed or local search algorithms for solving problems
+  - Develop logic programs with the significance of language semantics
+  - Devise a plan of action to achieve a goal using standard AI methods
+  - Illustrate the working of natural language processing techniques
+Contents:
+  - Introduction: Practical examples of artificial intelligence, intelligent agents, environments, intelligent behaviour, rational behaviour & Turing test
+  - Problem Solving by Searching: Problem-solving agents, uninformed search strategies, informed (Heuristic) search strategies
+  - Local Search and Optimization Algorithms: Hill climbing search, simulated annealing, local beam search, genetic algorithms, searching in different environments, adversarial search
+  - Planning: Classical planning, planning as state-space search
+  - Knowledge Representation: Horn clause, resolution, theorem proving, ontology engineering, representing objects and events
+  - Natural Language Processing: Language models, text classification, information retrieval, information extraction
+Teaching/Learning Methods:
+  - Lectures
+  - Tutorial discussions
+  - Guided learning
+  - Assignments
+Assessment Strategy:
+  - In-course Assessments (Theory) —————————–15%
+  - In-course Assessments (Practical) —————————15%
+  - End-of-course Examination  ———————————-70%
+References:
+  - S. J. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, 3rd Ed., Prentice Hall, 2010.
+  - G.F. Luger, Artificial Intelligence – Structures and Strategies for Complex Problem Solving, 6th Ed., Pearson & Addison Wesley, 2009.
+  - P. H. Winston, Artificial Intelligence, 1st Ed., Addison Wesley, 1993.
+
+--------------------------------------------------------------------------------
+
+Course: CSC309S3: High Performance Computing
+Course Title: High Performance Computing
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: 30
+  - Independent Learning: 140
+Objectives: Provide in-depth knowledge on the computational aspects of high performance computing and methods of parallel programming
+Intended Learning Outcomes:
+  - Discuss basics of high performance computing and their usage
+  - Describe different parallel architectures, interconnection networks
+  - Transform sequential algorithms into efficient parallel algorithms
+  - Devise parallel programming models and parallel algorithms for solving computational problems
+  - Analyse parallel programming paradigms and their semantics and correctness issues
+  - Assess parallel algorithms based on their complexity and scalability
+Contents:
+  - Introduction to High Performance Computing: Cluster computing, grid computing, cloud computing, parallel & distributed computing, fault tolerance, concurrency, nondeterminism, locality
+  - Parallel Architectures: Taxonomy, data versus control parallelism (SIMD/Vector, pipelines, MIMD, multi-core, heterogeneous), shared versus distributed memory, interconnection networks for parallel computers
+  - Scheduling and Analytical Modeling: Cost of computation and scalability, model-based notions, handling scheduling issues
+  - Parallel Algorithms: Communication operations, algorithmic paradigms (Divide and conquer, recursion, Series, parallel composition), computation on matrices, sorting, graph algorithms, search algorithms
+  - Concepts of Parallel Programming: Distributed-memory programming (MPI), shared-memory programming (OpenMP, CUDA)
+Teaching/Learning Methods:
+  - Lectures
+  - Practical demonstration
+  - Assessments
+  - Tutorial discussions
+  - Guided learning
+Assessment Strategy:
+  - In-course Assessment (Theory)  —————————–15%
+  - In-course Assessment (Practical) —————————15%
+  - End-of-course Examination ———————————-70%
+References:
+  - J.C. Zbigniew, Introduction to Parallel Computing, 1st Ed., Cambridge University Press, 2017.
+  - J. Sanders, and E. Kandrot, CUDA by Example: An Introduction to General-Purpose GPU Programming, 1st Ed., Addison-Wesley Professional, 2010.
+  - A. Grama, A. Gupta, G. Karypis, and V. Kumar. “Introduction to Parallel Computing”, 2nd Ed., Addison-Wesley, 2003.
+
+--------------------------------------------------------------------------------
+
+Course: CSC310S3: Image Processing and Computer Vision
+Course Title: Image Processing and Computer Vision
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: 30
+  - Independent Learning: 140
+Objectives: Provide in-depth knowledge in image processing and computer vision techniques to solve real-world problems, and develop skills for research in these fields
+Intended Learning Outcomes:
+  - Describe the basic concepts of image processing and computer vision
+  - Perform visual tasks in sequences of image analysis operations, representations, specific algorithms, and inference principles
+  - Explain image processing techniques in the spatial and frequency domain
+  - Analyse a range of algorithms for image processing and computer vision
+  - Develop basic computer vision algorithms for image retrieval and image recognition
+  - Apply image processing and computer vision techniques to solve real-world problems
+Contents:
+  - Digital Image Fundamentals: Image representation, sampling and quantisation, image size, resolution, pixel neighbours, connectivity, arithmetic and logical operations for images
+  - Image Enhancement in Spatial Domain: Intensity transformations, histogram equalization and specification, filter operations for smoothing, sharpening images, and noise reduction
+  - Image Enhancement in Frequency Domain: The Fourier transform and its properties, Fast Fourier Transform (FFT), filter operations for smoothing, sharpening images, and noise reduction
+  - Morphological Image Processing: Dilation and erosion, opening and closing, basic morphological applications
+  - Image Segmentation: Thresholding, edge detection, region growing
+  - Introduction to Computer Vision and its Applications: Human eye-brain system as a model for computer vision, biometric applications, automated navigation
+  - Introduction to Object Recognition: Feature types and descriptors, template matching, bag-of-features framework, feature matching, convolutional neural networks (CNNs)
+Teaching/Learning Methods:
+  - Lectures
+  - Assignments
+  - Poster presentation
+  - Guided learning
+Assessment Strategy:
+  - In-course Assessment (Theory)  —————————–15%
+  - In-course Assessment (Practical) —————————15%
+  - End-of-course Examination ———————————-70%
+References:
+  - W. Burger and M.J. Burge, Principles of Digital Image Processing: Fundamental Techniques, Springer, 3rd Ed., 2009.
+  - M. Sonka, R. Boyle and V. Hlavac, Image Processing, Analysis and Machine Vision, 3rd Ed., Springer, 2008.
+  - R.C. Gonzalez and R.E. Woods, Digital Image Processing, 3rd Ed., Pearson, 2007.
+  - L.G. Shapiro and G. Stockman, Computer Vision, Prentice Hall, 2001.
+
+--------------------------------------------------------------------------------
+
+Course: CSC311S3: Machine Learning
+Course Title: Machine Learning
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: 30
+  - Independent Learning: 140
+Objectives: Provide knowledge on the concepts of machine learning techniques for data analysis and modelling
+Intended Learning Outcomes:
+  - Describe a range of supervised, unsupervised and reinforcement learning algorithms
+  - Explain different deep learning techniques
+  - Perform pre-processing operations on data to mine useful information
+  - Identify appropriate learning paradigms for given data mining problems
+  - Apply machine learning algorithms on data to identify new patterns or concepts
+Contents:
+  - Introduction to Machine Learning: Machine intelligence and applications, concepts, instances, attributes and their types, and handling sparse data, missing & inaccurate values in data, handling categorical data
+  - Supervised Learning: Introduction to classification and regression, rule-based learning, decision tree learning, Naive Bayes, k-nearest neighbour, support vector machines, neural networks, linear regressions, introduction to boosting
+  - Unsupervised Learning: K-means clustering, Gaussian mixture models (GMMs), hierarchical clustering
+  - Reinforcement Learning: Markov decision processes (MDP), value functions, returns and value functions, Bellman equation and optimality
+  - Introduction to Deep Learning: Convolutional neural network (CNN), Recurrent neural network (RNN)
+  - Dimensionality Reduction: PCA, feature selection
+  - Experimental Setup and Evaluation: Training and testing, cross-validation, confusion matrices and evaluation measures such as accuracies, mean square errors, ROC values
+Teaching/Learning Methods:
+  - Lectures
+  - Vocabulary drills
+  - Assignments
+  - Laboratory experiments
+  - Guided learning
+Assessment Strategy:
+  - In-course Assessment (Theory)  —————————–15%
+  - In-course Assessment (Practical) —————————15%
+  - End-of-course Examination ———————————-70%
+References:
+  - C.M. Bishop, “Pattern Recognition and Machine Learning”, 2007.
+  - R.O. Duda, P.E. Hart, D.G. Stork, “Pattern Classification”, 2nd Ed., Wiley, 2000.
+  - T. Mitchell, “Machine Learning”, McGraw Hill, 1997.
+  - I.H. Witten, E. Frank, M.A. Hall, “Data Mining: Practical Machine Learning Tools and Techniques”, 3rd Ed., Morgan Kaufmann Series, 2011
+
+--------------------------------------------------------------------------------
+Course: CSC312S3: Mobile Computing
+Course Title: Mobile Computing
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 45
+  - Practical: —
+  - Independent Learning: 105
+Objectives: Provide in-depth understanding of the concepts in mobile computing and the state of the art trends in mobile computing research
+Intended Learning Outcomes:
+  - Describe the concepts of mobile wireless communications
+  - Discuss realistic problems in wireless communication
+  - Identify latest research trends in mobile computing
+  - Apply knowledge for mobile applications development
+  - Appraise routing and forwarding protocols for mobile ad hoc networks
+  - Recommend ad-hoc network based solutions for real world problems
+Contents:
+  - Overview of Wireless Networks: Wireless communication properties, wireless impairments, multiplexing in wireless communications, the need for a specialized MAC
+  - Routing in Wireless Networks: Issues in routing for wireless networks, wireless routing protocols
+  - Ad-hoc Networks: Mobile ad-hoc networks, sensor networks and vehicular ad-hoc networks, routing in ad-hoc networks, latest trends in ad-hoc networking
+  - Mobile Applications Development Environments: Mobile platforms, development and deployment of applications
+  - Common Paradigms in Mobile Computing: Low power computing, mobile computing in resource constrained environments, fault tolerance, and persistence
+Teaching/Learning Methods:
+  - Lectures
+  - Assignments
+  - Tutorial discussions
+  - Guided learning
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - J. Schiller, “Mobile Communications”, 2nd Ed., Addison Wesley publishers, 2004.
+  - M. Yener and O. Dundar, “Expert Android Studio”, 1st Ed., Wrox publications, 2016.
+
+--------------------------------------------------------------------------------
+
+Course: CSC401S3: Advanced Algorithms
+Course Title: Advanced Algorithms
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 45
+  - Practical: —
+  - Independent Learning: 105
+Objectives: Provide in-depth knowledge for designing efficient algorithms using appropriate data structures and a variety of advanced computational techniques.
+Intended Learning Outcomes:
+  - Perform algorithm analysis using appropriate techniques
+  - Apply algorithms for solving problems of various complexity
+  - Identify suitable data structure(s) for efficient problem solving
+  - Formulate a real world problem into a model solvable by standard algorithmic approaches
+  - Defend NP-Hard & NP-Complete problems
+Contents:
+  - Analysis of algorithms: Order of growth and asymptotic notation, master method, amortised analysis
+  - Algorithms for sorting and order statistics: Standard sorting algorithms, sorting in linear time, medians, order statistics
+  - Advanced data structures: Hash table, binary heap, binary search tree, red-black tree, augmenting data structures, B-trees, Fibonacci heaps, utilising data structures for problem solving
+  - Dynamic programming: Elements of dynamic programming (optimal substructure, overlapping sub-problems, memoization), application of dynamic programming approach for problem solving
+  - Greedy algorithms: Elements of Greedy strategy (optimal substructure, overlapping sub-problems, Greedy strategy), comparison of dynamic programming and Greedy approach, application of Greedy approach for problem solving
+  - P, NP, NP-Hard and NP-Completeness: Introduction to class of problems, NP-completeness (Cook’s theorem), classic NP-complete problems, reduction techniques
+Teaching/Learning Methods:
+  - Lectures
+  - Tutorial discussion
+  - e-based teaching
+  - Open Educational Resources
+  - Assignments
+  - Guided learning
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - Tardos, J. K. E., Algorithm Design, 2nd Ed., Pearson Education, 2011.
+  - Sedgewick, R., Algorithms, 4th Ed., Addison-Wesley Professional, 2011.
+  - Thomas, H. Cormen, T. Leiserson, C. E., Rivest, R. L., and Stein, C., Introduction to Algorithms, 3rd Ed., MIT Press, 2009.
+
+--------------------------------------------------------------------------------
+
+Course: CSC402S3: Compiler Design
+Course Title: Compiler Design
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 45
+  - Practical: —
+  - Independent Learning: 105
+Objectives: Provide in-depth knowledge of compiler components and principles involved in compiler design.
+Intended Learning Outcomes:
+  - Discuss the functionalities of a compiler
+  - Represent a specified language using nondeterministic and deterministic finite automata
+  - Analyse the syntax of a language using top-down and bottom-up parsing approaches
+  - Discuss implementation techniques for a compiler
+  - Design algorithmic routines for type checking and code generation
+Contents:
+  - Introduction: Compilers, Interpreters, and phases of compilation process
+  - Lexical Analysis: Regular expressions and their properties, converting regular expressions to Nondeterministic Finite Automata (NFA), Converting NFA to Deterministic finite automata (DFA), Eliminating dead states and minimising DFA
+  - Syntax Analysis: Context-free grammars, Syntax trees, Ambiguity in Grammar, Operator precedence, eliminating left-recursion, Left-factorisation, Top-down parsing methods, Bottom-up parsing methods, Resolving conflicts in parsing tables
+  - Scope and Symbol Tables: Dealing with scopes of identifiers, Efficient implementations of symbol tables
+  - Type Checking: The design space of types, Attributes, Type checking procedures
+  - Code Generation: Syntax Directed Translations, Intermediate-Code Generation, Machine-Code Generation
+Teaching/Learning Methods:
+  - Lectures
+  - Tutorial discussion
+  - e-based teaching-learning
+  - Open Educational Resources
+  - Assignments
+  - Guided Learning
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - Mogensen, T. E., Introduction to Compiler Design, 2nd Ed., Springer, 2017.
+  - Lam, M. S., Sethi, R., and Aho, A. V., Compilers: Principles, Techniques, and Tools, 2nd Ed., Pearson Education, 2013.
+  - Galles, D., Modern Compiler Design, 2nd Ed., Pearson Education, 2009.
+
+--------------------------------------------------------------------------------
+
+Course: CSC403S3: Data Science
+Course Title: Data Science
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 30
+  - Practical: 30
+  - Independent Learning: 90
+Objectives: Provide theoretical and practical knowledge on data science for solving data-driven problems and improving research skills in data science.
+Intended Learning Outcomes:
+  - Discuss fundamental concepts of linear algebra in relation to data science
+  - Analyse data-driven problems using probability and statistics
+  - Apply mathematical optimization techniques for solving data-driven problems
+  - Build neural networks using backpropagation algorithm
+  - Transform data-driven problems into computer programs
+  - Analyse data through visualization
+Contents:
+  - Linear algebra: Overview of scalars, vectors, matrices, tensors, multiplication of matrices and vectors, norms, trace, rank, eigenvalues, and eigenvectors
+  - Probability and statistics: Overview of probability, marginal and conditional probabilities, independence and conditional independence, probability density functions, expectation, variance and covariance, and Bayes rule; Bayesian classifier, principal component analysis (PCA), linear discriminant analysis (LDA)
+  - Information theory: Entropy, cross-entropy, KL divergence, mutual information
+  - Multivariate calculus and mathematical optimization for parameter estimation: Partial derivatives, chain rule, gradient based optimization (Gradient Descent, Stochastic Gradient Descent), Jacobian and Hessian matrices, constrained optimization, neural networks and back propagation algorithm
+  - Applications: Eigen faces, LDA based classification, Linear Regression, Least square minimization
+  - Emerging Technologies in Big Data Analytics: Usage of Open source frameworks (e.g. Hadoop)
+Teaching/Learning Methods:
+  - Lectures
+  - Tutorials
+  - Laboratory experiments
+  - e-based teaching-learning
+  - Take home exercises
+  - Simulations
+  - Use of Open Educational Resources
+  - Guided Learning
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - Goodfellow, I., Bengio, Y. and Courville, A., Deep Learning, 1st Ed, MIT Press, 2016.
+  - Bishop, C.M., Pattern Recognition and Machine Learning, 1st Ed, Springer, 2006.
+  - Nielsen, M., Neural Networks and Deep Learning, Determination Press, 2019.
+  - Aggarwal, C. C., Linear Algebra and Optimization for Machine Learning, 1st Ed, Springer Nature, 2020
+
+--------------------------------------------------------------------------------
+
+Course: CSC404S3: Information Systems Security
+Course Title: Information Systems Security
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 45
+  - Practical: —
+  - Independent Learning: 105
+Objectives: Provide knowledge to identify various security threats and propose suitable approaches to protecting Information Systems.
+Intended Learning Outcomes:
+  - Identify various security threats and attacks on Information Systems
+  - Explain security design principles
+  - Elaborate techniques for data protection on Information Systems
+  - Understand the techniques used to protect Computer Networks
+  - Explain the protocols that are utilised to protect the network and application layers of the Internet
+Contents:
+  - Introduction: Key security concepts, Critical characteristics of Information System, Secure-System life cycle, Security Professionals and the Organization
+  - The need for security: Threats, Attacks, Secure software development
+  - Security technologies: Firewalls, Virtual private networks, Intrusion detection and prevention systems, other security tools
+  - Cryptography: Classical encryption techniques, Block ciphers, Data encryption standard, Advanced encryption standard, Public-Key cryptosystems
+  - Cryptographic data integrity algorithms: Cryptographic hash functions, Message authentication codes, Digital signatures
+  - Network security: Network access control and cloud security, Transport-level security, Wireless network security
+  - Internet security: Internet Protocol security, web security (S-HTTP), email threats and email security (S/MIME)
+Teaching/Learning Methods:
+  - Lectures
+  - e-based teaching-learning
+  - Tutorial discussion
+  - Assignments
+  - Simulations
+  - Use of Open Educational Resources
+  - Guided Learning
+Assessment Strategy:
+  - In-course Assessments —————————————30%
+  - End-of-course Examination ———————————-70%
+References:
+  - Whitman, M. E. and Mattord, H. J., “Principles of Information Security”, 6th Ed., Cengage Learning, 2017.
+  - Stallings, W., “Cryptography and Network Security: Principles and Practice”, 4th Ed, Pearson Education Limited, 2017
+  - Paar, C. and Pelzl, J., “Understanding Cryptography: A Textbook for Students and Practitioners” 1st Ed, Springer, 2014.
+
+--------------------------------------------------------------------------------
+Course: CSC405S3: Systems and Network Administration
+Course Title: Systems and Network Administration
+Credit Value: 03
+Core/Optional: core
+Hourly Breakdown:
+  - Theory: 15
+  - Practical: 60
+  - Independent Learning: 75
+Objectives: Provide theoretical and practical knowledge required to manage and maintain hosts, network connectivity devices, and various networked servers.
+Intended Learning Outcomes:
+  - Administer computer systems and connectivity devices
+  - Configure systems and devices for different networking scenarios
+  - Design a data communication network required for a small/medium organisation
+  - Demonstrate ability in network and server management
+  - Implement security policies in networked systems
+Contents:
+  - Host Management: Host hardware and maintenance, Basic commands, Files, Directories and File System, Editors, Processes, Users and group management, Package management, Automating system administration.
+  - Network Design and Management: Network connectivity devices, Host network configuration, Routing and Router configuration, IP addressing, subnetting, Switch configuration, Wireless equipment, VLAN, Inter-VLAN routing.
+  - Server Management: Install and manage server operating systems, Web server, e-mail server, Proxy server, DNS server, Content Servers.
+  - Security Policy Implementation: Firewall configuration, IP tables, Secure remote administration, Simple Intrusion Detection Techniques, Snort.
+Teaching/Learning Methods:
+  - Lectures
+  - Practical
+  - e-based teaching-learning
+  - Open Educational Resources
+  - Assignments
+  - Online based training
+  - Simulation
+  - Guided Learning
+Assessment Strategy:
+  - In-course Assessments (Theory): 20%
+  - Group Project: 20%
+  - End-of-course Examination (Practical): 60%
+References:
+  - Blokdyk, G., “Computer Network Administration: A Clear and Concise Reference”, 1st Ed, 5 Star Cooks, 2019
+  - Frisc, A., “Essential System Administration”, 3rd Ed, O’Reilly Media Inc., 2002.
+  - Odom, W., CCNA 200-301 Official Cert Guide Library, 1st Ed, Cisco Press, 2019
+  - Bauer, M. D., “Linux Server Security”, 2nd Edition, O’Reilly Media Inc., 2005
+
+--------------------------------------------------------------------------------
+
+Course: CSC406S6: Research Project
+Course Title: Research Project
+Credit Value: 06
+Core/Optional: core
+Hourly Breakdown:
+  - Mentoring: 20
+  - Practical: —
+  - Independent Learning: 580
+Objectives: Develop capability of carrying out scientific research in the computing domain for solving real world problems.
+Intended Learning Outcomes:
+  - Identify a hypothesis and/or a research problem
+  - Formulate the detailed problem statement
+  - Frame a solution with appropriate research methodology
+  - Validate the proposed solution
+  - Perform scientific communication
+  - Defend the performed research, results and findings
+Contents:
+  - Engage in an academic year long research project under the guidance of academic supervisor(s) with optional guidance by an external mentor
+  - Develop a research proposal with adequate literature review
+  - Carry out the research using appropriate research methodology
+  - Document and present the research
+Teaching/Learning Methods:
+  - Reading assignments in journals
+  - Research seminars
+  - Open Educational Resources
+  - Documentation
+Assessment Strategy:
+  - Presentation of research proposal: 20%
+  - Proposed solution and Implementation: 40%
+  - Project Diary: 10%
+  - Project report: 10%
+  - Viva voce: 10%
+  - Submission of abstract/poster/paper to a scientific forum: 10%
+
+--------------------------------------------------------------------------------
+
+Course: CSC407S6: Industrial Training
+Course Title: Industrial Training
+Credit Value: 06
+Core/Optional: core
+Hourly Breakdown:
+  - Mentoring: 20
+  - Practical: —
+  - Independent Learning: 580
+Objectives: Provide an opportunity to develop skills and attitude, and gain experience in finding IT solutions to problems in an industrial environment.
+Intended Learning Outcomes:
+  - Apply acquired knowledge in industrial environment
+  - Develop interpersonal, communication, management and team working skills
+  - Adapt to work readily in real industrial projects
+  - Perceive state-of-the-art industrial technologies
+Contents:
+  - The industrial training is offered during the second semester.
+  - Students will be trained in an appropriate industry for a period of four to six months which amounts to 600 notional hours under the guidance of academic and industrial mentors.
+  - Any additional stay at the industry will not carry any additional credits.
+  - It is the student’s responsibility to find a placement in consultation with the department. The department may assist the student in finding a placement in an appropriate industry.
+  - Students shall maintain a journal to record their progress activity during the training.
+  - Academic staff will visit the training institution at least once during the training period to monitor their progress.
+  - On completion of the industrial training, each student shall submit the report, journal and deliver an oral presentation.
+  - Students who fail to obtain a minimum grade of D+ in industrial training may opt for a general degree in Computer Science as the training is non-repeatable.
+Teaching/Learning Methods:
+  - Mentoring
+  - Weekly recording of training diaries
+  - Code reviews
+  - Progress meetings
+  - Supervised study
+Assessment Strategy:
+  - Training journal: 20%
+  - Progress as per feedback from mentor(s): 20%
+  - Final Report: 20%
+  - Presentation: 40%
+
+--------------------------------------------------------------------------------
